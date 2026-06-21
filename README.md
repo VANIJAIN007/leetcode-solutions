@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/VANIJAIN007/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VANIJAIN007/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/VANIJAIN007/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/VANIJAIN007/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VANIJAIN007/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/VANIJAIN007/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
